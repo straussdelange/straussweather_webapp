@@ -1,0 +1,10 @@
+{
+  "weather-dynamic": [
+    {
+      "title": "At Least it's Always Sunny in Philidelphia!",
+      "url": "",
+      "urlToImage": "sunny.gif",
+      "description": "Please try loading the page again when you're online."
+    }
+  ]
+}
